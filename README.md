@@ -4,6 +4,6 @@ This repo contains the new module for Prof. Amy Tick's XRHETOR-R1A class for Fal
 
 For any questions relating to content, please contact daliehsujude@berkeley.edu
 
-The archived Political Data Institute Fall 2016 module created by Alexander Ivanoff, Aditya Sheth, Julian Kudzsus, and Tracy Chen also in this repo. 
+The archived Political Data Institute Fall 2016 module created by Alexander Ivanoff, Aditya Sheth, Julian Kudzsus, and Tracy Chen is also in this repo. 
 
 
