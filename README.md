@@ -2,7 +2,7 @@
 
 This repo contains the new module for Prof. Amy Tick's XRHETOR-R1A class for Fall 2016 and Fall 2017.
 
-The Fall 2017 materials were created by Sujude Dalieh, Bryannie Bach, Jonathan Lin, Keeley Takimoto, and Sean Seungwoo Son. 
+The Fall 2017 materials were created by Sujude Dalieh, Bryannie Bach, Jonathan Lin, Keeley Takimoto, and Sean Seungwoo Son. These modules connect word use in political speeches to the Moral Foundations Theory. Statistical inferences and visualizations from this data help students better understand rhetoric differences between conservative and liberal presidential candidates. This module is meant to take 2-3 class periods for students with minimal to no coding experience. 
 
 For any questions relating to content, please contact daliehsujude@berkeley.edu
 
